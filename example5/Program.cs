@@ -1,7 +1,7 @@
 ﻿Console.Write("enter your name:");
 string username = Console.ReadLine();
 
-if(username == "Tony")
+if(username.ToLower() == "tony")
 {
     Console.WriteLine("Dungeon master, welcome");
 }
