@@ -1,0 +1,15 @@
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\example5.csproj.AssemblyReference.cache
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\example5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\example5.AssemblyInfoInputs.cache
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\example5.AssemblyInfo.cs
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\example5.csproj.CoreCompileInputs.cache
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\bin\Debug\net7.0\example5.exe
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\bin\Debug\net7.0\example5.deps.json
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\bin\Debug\net7.0\example5.runtimeconfig.json
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\bin\Debug\net7.0\example5.dll
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\bin\Debug\net7.0\example5.pdb
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\example5.dll
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\refint\example5.dll
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\example5.pdb
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\example5.genruntimeconfig.cache
+C:\Users\Tempo4ka\Desktop\C#lec1\example5\obj\Debug\net7.0\ref\example5.dll
